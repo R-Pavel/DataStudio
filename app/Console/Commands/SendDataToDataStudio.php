@@ -38,7 +38,6 @@ class SendDataToDataStudio extends Command
     public function handle():void
     {
         dd(KpiCampaigns::all());
-        dd('handle starting');
 
     }
 }
