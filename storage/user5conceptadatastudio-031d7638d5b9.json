@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "user5conceptadatastudio",
+  "private_key_id": "031d7638d5b92d05c343a0f5f95419a09b331c46",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEnUvVVImNCdIO\nYFEXeCaQZGgE9FAAHi3yNhfvvHtZ7nOqg6uK2UT1yFlepTpr9LY9Rfy+epoOoKnh\niIJoWDsBBnXdsVNgVlnvmxy3i8Rqvj9mBvL1wOATd4v9EcwTeaECS+zMtmwirkUe\nm1i1kdAsxfrWt/YPXLbZiCTv22X/sO44qRWHKQo7FsQOMME59pfkTZJOlIfSSK9x\niUO/g4Hlgwl2MAAHg4dlxR3crvQ9AQeN5G1eNzhJcCZCZqWvWBqpZ/u4UdIid35n\nlymLCCc/N/MzydMqTj13Nqu/hPh9Ff/8YZHR/AKGTdez3i7XxiftR8ZpPp4TmEgE\nDoIgVaS1AgMBAAECggEATMSyGGDCuGwONYjMAOLsA9MAfna6SeF+xSTz4apxa2Lc\njMaOk09USrdolbjj/8Tz5ybNkb4jKvT2f9YiPQW+PB8+pEoZqPLueMzSwKP1FEym\nSnsKIISnuVIjObPaP/xsro3grunHfR8YY+P6FiMR6nl/AJmhnMvxpSwwZ+r9f4Dx\nbs18sYsneKC1/zZvZttw+Nl1mOPw1cpzGS8BAoouotHNcN4ALbgmQKrcF1Zzi8Te\n/wV3/EPsvWGVjDEkRd/Me/7PvDotwgFtZheJ8usQUTe9D6ccC5S0f9qybKnf2sXS\nSphrssB2IMzCeE3gPuCUX22IWBE7ZRxUUtnCc4DbHQKBgQDuRNSr1d2G7Zjcob24\nnsssJeyD21RMXwne/FnWKZFGgxG9lpK2Twhev9GvQsRraUA+VM81fEVfvNie92t6\nR+6JjNQROmjAlgUQVvCmb8tN0hbzOSijLqvooxd75dhYuhk+JCtD//abtEZNnUY4\nOjwBg0lnZBIcLL7IMSPpelxcGwKBgQDTPuw89olHf8qmlicnpYQAKh8A679PQFnE\nWKHJB5K4G62CeGK469RyirVEiotLctZWb0qhlKcDgSx7sz0xefWp2CU7KoaEL6AQ\nxQ7/Ipc5zgzMZyeRdTqWAtHmop4fZmkpw9szr/wg/OEFKRaNX2UKpuu3Ju6/C2sH\nCkoTBK5vbwKBgEDZUPy3x4RKtHkQOF/AMFICvF2i202x7DDZg+XrCFQlpjVwftvJ\npOCM2pgV1vnY+pg8Yu0Otp74+ghCFOmCHGUphCpwOER6UESDNRpHgRDcJkzqeKn5\nMOavRNv+0aRMekRUecYXK1pzdVL4hD0XdG+A+QB/1wH+F6rK3RhVqj+TAoGAE4BB\nircvoRwY9xvxbWWINAOvbQRWWtiT8N5FwSsjzj8v21WFt5B9wj0v0q3/ge2N/9iy\nSQxSBq7MDndTdNfPZ+h+N2ILnPRQkHvAkKj+0OVGpS/4pSLvT53fBq2Ib1mi56oe\n+DyMx/bQRwut+0sNJtiV9ghwDc7eCH5YrDzIZZ0CgYEApZwoLguZYZACMC+DjeWZ\nQ/sd5aGD0bfpUr3lHu1WFcpwQoECTzlz1Pcc+STdM0FRReel8nwyLLOikCt5Xjb3\n6uchQmTOwAdwzdi/o2yG+fPmdZP3iLDvwhBvVtispy1SdnzT7pPilo7ouZjd9AlL\n64dBMpxN0IIHK/1+Zrcaa14=\n-----END PRIVATE KEY-----\n",
+  "client_email": "user5conceptadatastudioservice@user5conceptadatastudio.iam.gserviceaccount.com",
+  "client_id": "117924290190776727320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/user5conceptadatastudioservice%40user5conceptadatastudio.iam.gserviceaccount.com"
+}
