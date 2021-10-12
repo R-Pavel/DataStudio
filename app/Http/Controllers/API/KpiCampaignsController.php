@@ -23,8 +23,7 @@ class KpiCampaignsController extends BaseController
         ];
 
         $res = KpiCampaigns::select($selects)
-            //->where('date', $request->data)
-            ->where('date', '2019-10-13 00:00:00')
+            ->where('date', $request->data)
             ->where('sku', '!=', 'Total')
             ->groupBy('sku')
             ->get();
