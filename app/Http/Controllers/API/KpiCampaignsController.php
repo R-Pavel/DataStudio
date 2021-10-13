@@ -2,10 +2,8 @@
 
 namespace App\Http\Controllers\API;
 
-use Illuminate\Http\Request;
 use App\Http\Controllers\API\BaseController as BaseController;
 use App\Models\KpiCampaigns;
-use Illuminate\Support\Facades\DB;
 
 class KpiCampaignsController extends BaseController
 {
@@ -14,18 +12,11 @@ class KpiCampaignsController extends BaseController
      *
      * @return \Illuminate\Http\JsonResponse
      */
-    public function index(Request $request)
+    public function index()
     {
-        $selects = [
-            DB::raw('SUM(spend) as spend'),
-            DB::raw('SUM(sales) as sales'),
-            DB::raw('sku as sku'),
-        ];
 
-        $res = KpiCampaigns::select($selects)
-            ->where('date', $request->data)
+        $res = KpiCampaigns::select('spend','sales','sku','date')
             ->where('sku', '!=', 'Total')
-            ->groupBy('sku')
             ->get();
 
         return $this->sendResponse($res,'Success');
